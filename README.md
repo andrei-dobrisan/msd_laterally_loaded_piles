@@ -37,7 +37,7 @@ The function requires a set of pile and soil properties (see `input_structure_ex
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/andrei-dobrisan/msd_laterally_loaded_piles.git](https://github.com/andrei-dobrisan/msd_laterally_loaded_piles.git)
+    git clone https://github.com/andrei-dobrisan/msd_laterally_loaded_piles.git
     ```
 2.  Add the repository folder to your MATLAB path.
 
