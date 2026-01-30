@@ -20,7 +20,7 @@ This code provides a design method for the monotonic lateral loading of piles. I
 * **Complete Profiles:** Generates depth-profiles for displacement ($y$), rotation ($\theta$), bending moment ($M$), shear force ($S$), and net soil pressure ($p$).
 
 ## Requirements
-* **Software:** MATLAB (R2025a or later recommended). The optional **Optimization Toolbox** needs to be installed for the code to run.
+* **Software:** MATLAB (R2025a or later recommended). The **Optimization Toolbox** needs to be installed for the code to run.
 
 ### Inputs
 The function requires a set of pile and soil properties (see `input_structure_example.m` for a template).
@@ -37,7 +37,7 @@ The function requires a set of pile and soil properties (see `input_structure_ex
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/your-username/repo-name.git](https://github.com/your-username/repo-name.git)
+    git clone [https://github.com/andrei-dobrisan/msd_laterally_loaded_piles.git](https://github.com/andrei-dobrisan/msd_laterally_loaded_piles.git)
     ```
 2.  Add the repository folder to your MATLAB path.
 
