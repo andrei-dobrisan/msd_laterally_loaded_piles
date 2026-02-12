@@ -28,7 +28,7 @@ The function requires a set of pile and soil properties (see `input_structure_ex
 **Required Parameters:**
 * **Load:** Lateral force $H$ [N], Load application height $h$ [m].
 * **Pile:** Diameter $D$ [m], Embedment length $L$ [m], Wall thickness $t$ [m], Young's Modulus $E$ [Pa].
-* **Soil:** Relative density $D_r$ [%], Effective vertical stress $$\sigma'_{v0}$$ [Pa], Water table depth $z_{wt}$ [m], Void ratios ($e_{min}, e_{max}$) [-], Uniformity coefficient $C_u$ [-], Critical friction angle $\phi_{crit}$ [degrees].
+* **Soil:** Relative density $D_r$ [%], Effective vertical stress σ′<sub>v0</sub> [Pa], Water table depth z<sub>wt</sub> [m], Void ratios ($e_{min}, e_{max}$) [-], Uniformity coefficient $C_u$ [-], Critical friction angle $\phi_{crit}$ [degrees].
 
 **Optional/Advanced Parameters:**
 * Small strain stiffness $G_0$, Earth pressure coefficient $K_0$, Peak friction angle $\phi_{peak}$, Peak dilation angle $\psi_{peak}$, Soil-pile interface friction angle $\delta$
